@@ -10,6 +10,6 @@ function removeFromPlaylist(playlist, artistName){
 };
 
 function removeFromPlaylist(playlist, artistName){
-  
+
 delete key.slowdive;
 };
