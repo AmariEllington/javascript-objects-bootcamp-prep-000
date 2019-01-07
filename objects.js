@@ -10,7 +10,6 @@ function removeFromPlaylist(playlist, artistName){
 };
 
 function removeFromPlaylist(playlist, artistName){
-
-delete artist.slowdive;
+delete playlist.artistName;
 return playlist
 };
