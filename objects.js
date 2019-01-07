@@ -9,4 +9,4 @@ function removeFromPlaylist(playlist, artistName){
   artist: "My Bloody Valentine", "Phil Ochs", "Slowdive"
 };
 
-delete playlist.artistName;
+delete artist."Slowdive";
