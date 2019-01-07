@@ -8,5 +8,3 @@ function updatePlaylist(object, key, value){
 function removeFromPlaylist(playlist, artistName){
   artist: "My Bloody Valentine", "Phil Ochs", "Slowdive"
 };
-
-
